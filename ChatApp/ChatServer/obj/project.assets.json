@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "/Users/stevenfuller/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/stevenfuller/Library/CloudStorage/OneDrive-MiddleTennesseeStateUniversity/MTSU/Fall 2023/CSCI 5300 - Data Communication Networks/Projects/Project2/ChatApp/ChatServer/ChatServer.csproj",
+      "projectName": "ChatServer",
+      "projectPath": "/Users/stevenfuller/Library/CloudStorage/OneDrive-MiddleTennesseeStateUniversity/MTSU/Fall 2023/CSCI 5300 - Data Communication Networks/Projects/Project2/ChatApp/ChatServer/ChatServer.csproj",
+      "packagesPath": "/Users/stevenfuller/.nuget/packages/",
+      "outputPath": "/Users/stevenfuller/Library/CloudStorage/OneDrive-MiddleTennesseeStateUniversity/MTSU/Fall 2023/CSCI 5300 - Data Communication Networks/Projects/Project2/ChatApp/ChatServer/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/stevenfuller/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

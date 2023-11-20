@@ -1,0 +1,15 @@
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\bin\Release\net5.0\ChatServer.exe
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\bin\Release\net5.0\ChatServer.deps.json
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\bin\Release\net5.0\ChatServer.runtimeconfig.json
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\bin\Release\net5.0\ChatServer.runtimeconfig.dev.json
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\bin\Release\net5.0\ChatServer.dll
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\bin\Release\net5.0\ref\ChatServer.dll
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\bin\Release\net5.0\ChatServer.pdb
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\obj\Release\net5.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\obj\Release\net5.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\obj\Release\net5.0\ChatServer.AssemblyInfo.cs
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\obj\Release\net5.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\obj\Release\net5.0\ChatServer.dll
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\obj\Release\net5.0\ref\ChatServer.dll
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\obj\Release\net5.0\ChatServer.pdb
+C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatServer\obj\Release\net5.0\ChatServer.genruntimeconfig.cache

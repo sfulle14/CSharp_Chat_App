@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = ChatClient
+build_property.ProjectDir = C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatApp\

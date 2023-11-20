@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ChatClient</id>
+    <version>1.0.0</version>
+    <authors>ChatClient</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatApp\bin\Debug\net5.0-windows\ChatClient.runtimeconfig.json" target="lib\net5.0-windows7.0\ChatClient.runtimeconfig.json" />
+    <file src="C:\Users\Steven\OneDrive - Middle Tennessee State University\MTSU\Fall 2023\CSCI 5300 - Data Communication Networks\Projects\Project2\ChatApp\ChatApp\bin\Debug\net5.0-windows\ChatClient.dll" target="lib\net5.0-windows7.0\ChatClient.dll" />
+  </files>
+</package>

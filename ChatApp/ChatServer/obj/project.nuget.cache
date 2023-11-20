@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B2M+twu2iW4LndsITioOoomqIPzvJr4zw93y4FR34xyoU/55w44Gv8bWkAMrm5iibxb9cIJNSv+aH/DTycBeew==",
+  "success": true,
+  "projectFilePath": "/Users/stevenfuller/Library/CloudStorage/OneDrive-MiddleTennesseeStateUniversity/MTSU/Fall 2023/CSCI 5300 - Data Communication Networks/Projects/Project2/ChatApp/ChatServer/ChatServer.csproj",
+  "expectedPackageFiles": [
+    "/Users/stevenfuller/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/stevenfuller/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/stevenfuller/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
