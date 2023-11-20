@@ -3,8 +3,7 @@
 This is a windows .exe program and will only work on a windows device.
 
 ## Dependancies:
-.Net 5.0
-Windows operating system
+.Net 5.0 and a Windows operating system
 
 
 ## How to run the program:
